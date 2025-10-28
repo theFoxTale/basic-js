@@ -11,7 +11,7 @@
 3. Clone your newly created repo: https://github.com/<%your_github_username%>/basic-js/
 4. Go to folder `basic-js`
 5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)
-6. Run `npm run test` in command line.
+6. Run `npm run test` in command line. Run one test: `npm test -- test/what-season.test.js`
 7. You will see the number of pending, passing and failing tests. 100% of passing tests is equal to max score for the task
 
 ---
@@ -19,6 +19,31 @@
 #### Troubleshooting
 
 - If you catch error like [this](https://user-images.githubusercontent.com/17920285/158375305-f54d87fa-6f42-402f-af25-10b233d98cf9.png) you can try to make `npm install -g node-gyp`
+
+---
+
+#### Single Tests
+- [ ] `npm test -- test/count-cats.test.js`
+- [ ] `npm test -- test/carbon-dating.test.js`
+- [ ] `npm test -- test/dream-team.test.js`
+- [ ] `npm test -- test/what-season.test.js`
+- [ ] `npm test -- test/hanoi-tower.test.js`
+- [ ] `npm test -- test/transform-array.test.js`
+- [ ] `npm test -- test/simple-chain.test.js`
+- [ ] `npm test -- test/recursive-depth.test.js`
+- [ ] `npm test -- test/extended-repeater.test.js`
+- [ ] `npm test -- test/vigenere-cipher.test.js`
+- [ ] `npm test -- test/common-character-count.test.js`
+- [ ] `npm test -- test/delete-digit.test.js`
+- [ ] `npm test -- test/dns-stats.test.js`
+- [ ] `npm test -- test/encode-line.test.js`
+- [ ] `npm test -- test/file-names.test.js`
+- [ ] `npm test -- test/get-email-domain.test.js`
+- [ ] `npm test -- test/mac-address.test.js`
+- [ ] `npm test -- test/matrix-elements-sum.test.js`
+- [ ] `npm test -- sort-by-height.test.js`
+- [ ] `npm test -- sort-by-height.test.js`
+- [ ] `npm test -- sum-digits.test.js`
 
 ---
 
@@ -61,6 +86,8 @@ For example:
 
 Write your code in `src/count-cats.js`.
 
+Test: `npm test -- test/count-cats.test.js`
+
 ---
 
 ### **Carbon dating**
@@ -99,6 +126,8 @@ For example:
 
 Write your code in `src/carbon-dating.js`.
 
+Test: `npm test -- test/carbon-dating.test.js`
+
 ---
 
 ### **Dream team**
@@ -118,6 +147,8 @@ For example:
 `createDreamTeam(['Olivia', 1111, 'Lily', 'Oscar', true, null])` => `'LOO'`
 
 Write your code in `src/dream-team.js`.
+
+Test: `npm test -- test/dream-team.test.js`
 
 ---
 
@@ -153,6 +184,8 @@ For example:
 
 Write your code in `src/what-season.js`.
 
+Test: `npm test -- test/what-season.test.js`
+
 ---
 
 ### **Tower of Hanoi**
@@ -185,6 +218,8 @@ For example:
 
 Write your code in `src/hanoi-tower.js`.
 
+Test: `npm test -- test/hanoi-tower.test.js`
+
 ---
 
 ### **Transform array**
@@ -207,6 +242,8 @@ For example:
 The function must not affect inital array. Control sequences are applied **from left to right** to initial array elements. Control sequences **do not fall** into the transformed array. Control sequences in initial array don't occur in a row. If there is **no element** next to the control sequence **to which it can be applied** in the initial array, or this element was previously deleted, **it does nothing**. The function should throw an `Error` with message `'arr' parameter must be an instance of the Array!` if the `arr` is not an `Array`.
 
 Write your code in `src/transform-array.js`.
+
+Test: `npm test -- test/transform-array.test.js`
 
 ---
 
@@ -236,6 +273,8 @@ For example:
 
 Write your code in `src/simple-chain.js`.
 
+Test: `npm test -- test/simple-chain.test.js`
+
 ---
 
 ### **Recursive depth calculator**
@@ -256,6 +295,8 @@ For example:
 `depthCalc.calculateDepth([[[]]])` => `3`
 
 Write your code in `src/recursive-depth.js`.
+
+Test: `npm test -- test/recursive-depth.test.js`
 
 ---
 
@@ -284,6 +325,8 @@ The only indispensable parameter is `str`, any others may be not defined. `separ
 For example: `repeater('STRING', { repeatTimes: 3, separator: '**', addition: 'PLUS', additionRepeatTimes: 3, additionSeparator: '00' })` => `'STRINGPLUS00PLUS00PLUS**STRINGPLUS00PLUS00PLUS**STRINGPLUS00PLUS00PLUS'`
 
 Write your code in `src/extended-repeater.js`.
+
+Test: `npm test -- test/extended-repeater.test.js`
 
 ---
 
@@ -321,6 +364,8 @@ For example:
 
 Write your code in `src/vigenere-cipher.js`.
 
+Test: `npm test -- test/vigenere-cipher.test.js`
+
 ---
 
 ### **(ST) Common character count**
@@ -332,6 +377,8 @@ For example:
 `getCommonCharacterCount('aabcc', 'adcaa')` => `3`
 
 Write your code in `src/common-character-count.js`.
+
+Test: `npm test -- test/common-character-count.test.js`
 
 ---
 
@@ -345,6 +392,8 @@ For example:
 
 Write your code in `src/delete-digit.js`.
 
+Test: `npm test -- test/delete-digit.test.js`
+
 ---
 
 ### **(ST) DNS stat**
@@ -357,6 +406,8 @@ For example:
 
 Write your code in `src/dns-stats.js`.
 
+Test: `npm test -- test/dns-stats.test.js`
+
 ---
 
 ### **(ST) Encode line**
@@ -368,6 +419,8 @@ For example:
 `encodeLine('aabbbc')` => `'2a3bc'`
 
 Write your code in `src/encode-line.js`.
+
+Test: `npm test -- test/encode-line.test.js`
 
 ---
 
@@ -382,6 +435,8 @@ For example:
 
 Write your code in `src/file-names.js`.
 
+Test: `npm test -- test/file-names.test.js`
+
 ---
 
 ### **(ST) Get email domain**
@@ -393,6 +448,8 @@ For example:
 `getEmailDomain('prettyandsimple@example.com')` => `'example.com'`
 
 Write your code in `src/get-email-domain.js`.
+
+Test: `npm test -- test/get-email-domain.test.js`
 
 ---
 
@@ -406,6 +463,8 @@ For example:
 `isMAC48Address('00-1B-63-84-45-E6')` => `true`
 
 Write your code in `src/mac-adress.js`.
+
+Test: `npm test -- test/mac-address.test.js`
 
 ---
 
@@ -426,6 +485,8 @@ getMatrixElementsSum(matrix) => 9
 ```
 
 Write your code in `src/matrix-elements-sum.js`.
+
+Test: `npm test -- test/matrix-elements-sum.test.js`
 
 ---
 
@@ -451,6 +512,8 @@ minesweeper(matrix) => [
 
 Write your code in `src/minesweeper.js`.
 
+Test: `npm test -- sort-by-height.test.js`
+
 ---
 
 ### **(ST) Sort by height**
@@ -463,6 +526,8 @@ For example:
 `sortByHeight([-1, 150, 190, 170, -1, -1, 160, 180])` => `[-1, 150, 160, 170, -1, -1, 180, 190]`
 
 Write your code in `src/sort-by-height.js`.
+
+Test: `npm test -- sort-by-height.test.js`
 
 ---
 
@@ -479,6 +544,8 @@ For 91, the result should be 1 (9 + 1 = 10, 1 + 0 = 1)
 `getSumOfDigits(91)` => `1`
 
 Write your code in `src/sum-digits.js`.
+
+Test: `npm test -- sum-digits.test.js`
 
 ---
 
@@ -501,3 +568,4 @@ Write your code in `src/sum-digits.js`.
 are integrated from [Short track 2021 repo](https://github.com/rkhaslarov/rs-school-short-track-2021)
 
 & Thanks [mikhama](https://github.com/mikhama) for assistance!
+
