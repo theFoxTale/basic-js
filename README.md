@@ -23,7 +23,7 @@
 ---
 
 #### Single Tests
-- [ ] `npm test -- test/count-cats.test.js`
+- [x] `npm test -- test/count-cats.test.js`
 - [ ] `npm test -- test/carbon-dating.test.js`
 - [ ] `npm test -- test/dream-team.test.js`
 - [ ] `npm test -- test/what-season.test.js`
