@@ -25,7 +25,7 @@
 
 Напишите ваш код в `src/count-cats.js`.
 
-Запуск теста: npm test -- test/count-cats.test.js
+Запуск теста: `npm test -- test/count-cats.test.js`
 
 ---
 
@@ -61,7 +61,7 @@
 
 Напишите ваш код в `src/carbon-dating.js`.
 
-Запуск теста: npm test -- test/carbon-dating.test.js
+Запуск теста: `npm test -- test/carbon-dating.test.js`
 
 ---
 
@@ -84,7 +84,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите ваш код в `src/dream-team.js`.
 
-Запуск теста: npm test -- test/dream-team.test.js
+Запуск теста: `npm test -- test/dream-team.test.js`
 
 ---
 
@@ -119,7 +119,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите ваш код в `src/what-season.js`.
 
-Запуск теста: npm test -- test/what-season.test.js
+Запуск теста: `npm test -- test/what-season.test.js`
 
 ---
 
@@ -152,7 +152,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите ваш код в `src/hanoi-tower.js`.
 
-Запуск теста: npm test -- test/hanoi-tower.test.js
+Запуск теста: `npm test -- test/hanoi-tower.test.js`
 
 ---
 
@@ -176,7 +176,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/transform-array.js`.
 
-Запуск теста: npm test -- test/transform-array.test.js
+Запуск теста: `npm test -- test/transform-array.test.js`
 
 ---
 
@@ -207,7 +207,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите ваш код в `src/simple-chain.js`.
 
-Запуск теста: npm test -- test/simple-chain.test.js
+Запуск теста: `npm test -- test/simple-chain.test.js`
 
 ---
 
@@ -230,7 +230,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите ваш код в `src/recursive-depth.js`.
 
-Запуск теста: npm test -- test/recursive-depth.test.js
+Запуск теста: `npm test -- test/recursive-depth.test.js`
 
 ---
 
@@ -262,7 +262,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/extended-repeater.js`.
 
-Запуск теста: npm test -- test/extended-repeater.test.js
+Запуск теста: `npm test -- test/extended-repeater.test.js`
 
 ---
 
@@ -300,7 +300,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/vigenere-cipher.js`.
 
-Запуск теста: npm test -- test/vigenere-cipher.test.js
+Запуск теста: `npm test -- test/vigenere-cipher.test.js`
 
 ---
 
@@ -314,7 +314,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/common-character-count.js`.
 
-Запуск теста: npm test -- test/common-character-count.test.js
+Запуск теста: `npm test -- test/common-character-count.test.js`
 
 ---
 
@@ -328,7 +328,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/delete-digit.js`.
 
-Запуск теста: npm test -- test/delete-digit.test.js
+Запуск теста: `npm test -- test/delete-digit.test.js`
 
 ---
 
@@ -342,7 +342,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/dns-stats.js`.
 
-Запуск теста: npm test -- test/dns-stats.test.js
+Запуск теста: `npm test -- test/dns-stats.test.js`
 
 ---
 
@@ -356,7 +356,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/encode-line.js`.
 
-Запуск теста: npm test -- test/encode-line.test.js
+Запуск теста: `npm test -- test/encode-line.test.js`
 
 ---
 
@@ -371,7 +371,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/file-names.js`.
 
-Запуск теста: npm test -- test/file-names.test.js
+Запуск теста: `npm test -- test/file-names.test.js`
 
 ---
 
@@ -385,7 +385,7 @@ NB! Имя члена команды может содержать **пробе�
 
 Напишите свой код в `src/get-email-domain.js`.
 
-Запуск теста: npm test -- test/get-email-domain.test.js
+Запуск теста: `npm test -- test/get-email-domain.test.js`
 
 ---
 
@@ -400,7 +400,7 @@ MAC-48 адрес — это шесть групп по 2 шестнадцате
 
 Напишите свой код в `src/mac-adress.js`.
 
-Запуск теста: npm test -- test/mac-address.test.js
+Запуск теста: `npm test -- test/mac-address.test.js`
 
 ---
 
@@ -422,7 +422,7 @@ getMatrixElementsSum(matrix) => 9
 
 Напишите свой код в `src/matrix-elements-sum.js`.
 
-Запуск теста: npm test -- test/matrix-elements-sum.test.js
+`Запуск теста: `npm test -- test/matrix-elements-sum.test.js`
 
 ---
 
@@ -449,7 +449,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/minesweeper.js`.
 
-Запуск теста: npm test -- sort-by-height.test.js
+Запуск теста: `npm test -- sort-by-height.test.js`
 
 ---
 
@@ -464,7 +464,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/sort-by-height.js`.
 
-Запуск теста: npm test -- sort-by-height.test.js
+Запуск теста: `npm test -- sort-by-height.test.js`
 
 ---
 
@@ -481,7 +481,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/sum-digits.js`.
 
-Запуск теста: npm test -- sum-digits.test.js
+Запуск теста: `npm test -- sum-digits.test.js`
 
 ---
 
