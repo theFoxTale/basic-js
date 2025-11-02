@@ -423,7 +423,7 @@ getMatrixElementsSum(matrix) => 9
 
 Напишите свой код в `src/matrix-elements-sum.js`.
 
-`Запуск теста: `npm test -- test/matrix-elements-sum.test.js`
+Запуск теста: `npm test -- test/matrix-elements-sum.test.js`
 
 ---
 
@@ -450,7 +450,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/minesweeper.js`.
 
-Запуск теста: `npm test -- sort-by-height.test.js`
+Запуск теста: `npm test -- test/minesweeper.test.js`
 
 ---
 
@@ -465,7 +465,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/sort-by-height.js`.
 
-Запуск теста: `npm test -- sort-by-height.test.js`
+Запуск теста: `npm test -- test/sort-by-height.test.js`
 
 ---
 
@@ -482,7 +482,7 @@ minesweeper(matrix) => [
 
 Напишите свой код в `src/sum-digits.js`.
 
-Запуск теста: `npm test -- sum-digits.test.js`
+Запуск теста: `npm test -- test/sum-digits.test.js`
 
 ---
 

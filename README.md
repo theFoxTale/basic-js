@@ -24,26 +24,26 @@
 
 #### Single Tests
 - [x] `npm test -- test/count-cats.test.js`
-- [ ] `npm test -- test/carbon-dating.test.js`
-- [ ] `npm test -- test/dream-team.test.js`
-- [ ] `npm test -- test/what-season.test.js`
-- [ ] `npm test -- test/hanoi-tower.test.js`
-- [ ] `npm test -- test/transform-array.test.js`
-- [ ] `npm test -- test/simple-chain.test.js`
-- [ ] `npm test -- test/recursive-depth.test.js`
-- [ ] `npm test -- test/extended-repeater.test.js`
-- [ ] `npm test -- test/vigenere-cipher.test.js`
-- [ ] `npm test -- test/common-character-count.test.js`
-- [ ] `npm test -- test/delete-digit.test.js`
-- [ ] `npm test -- test/dns-stats.test.js`
-- [ ] `npm test -- test/encode-line.test.js`
-- [ ] `npm test -- test/file-names.test.js`
-- [ ] `npm test -- test/get-email-domain.test.js`
-- [ ] `npm test -- test/mac-address.test.js`
-- [ ] `npm test -- test/matrix-elements-sum.test.js`
-- [ ] `npm test -- sort-by-height.test.js`
-- [ ] `npm test -- sort-by-height.test.js`
-- [ ] `npm test -- sum-digits.test.js`
+- [x] `npm test -- test/carbon-dating.test.js`
+- [x] `npm test -- test/dream-team.test.js`
+- [x] `npm test -- test/what-season.test.js`
+- [x] `npm test -- test/hanoi-tower.test.js`
+- [x] `npm test -- test/transform-array.test.js`
+- [x] `npm test -- test/simple-chain.test.js`
+- [x] `npm test -- test/recursive-depth.test.js`
+- [x] `npm test -- test/extended-repeater.test.js`
+- [x] `npm test -- test/vigenere-cipher.test.js`
+- [x] `npm test -- test/common-character-count.test.js`
+- [x] `npm test -- test/delete-digit.test.js`
+- [x] `npm test -- test/dns-stats.test.js`
+- [x] `npm test -- test/encode-line.test.js`
+- [x] `npm test -- test/file-names.test.js`
+- [x] `npm test -- test/get-email-domain.test.js`
+- [x] `npm test -- test/mac-address.test.js`
+- [x] `npm test -- test/matrix-elements-sum.test.js`
+- [x] `npm test -- test/minesweeper.test.js`
+- [x] `npm test -- test/sort-by-height.test.js`
+- [x] `npm test -- test/sum-digits.test.js`
 
 ---
 
@@ -512,7 +512,7 @@ minesweeper(matrix) => [
 
 Write your code in `src/minesweeper.js`.
 
-Test: `npm test -- sort-by-height.test.js`
+Test: `npm test -- test/minesweeper.test.js`
 
 ---
 
@@ -527,7 +527,7 @@ For example:
 
 Write your code in `src/sort-by-height.js`.
 
-Test: `npm test -- sort-by-height.test.js`
+Test: `npm test -- test/sort-by-height.test.js`
 
 ---
 
@@ -545,7 +545,7 @@ For 91, the result should be 1 (9 + 1 = 10, 1 + 0 = 1)
 
 Write your code in `src/sum-digits.js`.
 
-Test: `npm test -- sum-digits.test.js`
+Test: `npm test -- test/sum-digits.test.js`
 
 ---
 
